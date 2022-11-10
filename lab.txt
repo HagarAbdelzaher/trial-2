@@ -1,0 +1,23 @@
+how to remove locally and remotely 
+
+remotely:
+- git push origin : dev
+
+Locally:
+- git branch -d
+
+
+how to checkout another branch without commit changes 
+- git stash
+-git checkout main
+-get stash pop
+
+how to list tags 
+- git tag
+
+
+how to delete tags 
+Locally:
+- git tag -d v1.2
+Remotely:
+- git push origin --delete v1.7
