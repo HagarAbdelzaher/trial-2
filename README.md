@@ -1,3 +1,1 @@
-![Alt text]
-
-(\Capture.JPG  "Lab 2")
+![Alt text](\Capture.JPG  "Lab 2")
